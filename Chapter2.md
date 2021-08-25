@@ -191,7 +191,7 @@ snd \___,_]   [_,___/       (__(___/  \|
 ***
 
 ---
-![Merge Hell](https://giphy.com/gifs/git-merge-cFkiFMDg3iFoI "merge hell")
+![Merge Hell](https://giphy.com/gifs/git-merge-cFkiFMDg3iFoI)
 
 ## Fill in the Blanks
 
@@ -203,4 +203,4 @@ HTML is the language used for all pages on the Internet and has existed since 19
 
 A hypertext is a funny thing that is linked to other texts. 
 
-This is done with a link - as html tag a link is written as _______.
+This is done with a link - as html tag a link is written as <a></a>.
