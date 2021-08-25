@@ -203,6 +203,6 @@ HTML is a language for web and the abbreviation of the English term "Hypertext M
 
 HTML is the language used for all pages on the Internet and has existed since 1992. 
 
-A hypertext is a funny thing that is linked to other texts. 
+A hypertext is a hyperdocument that is linked to other texts. 
 
 This is done with a link - as html tag a link is written as <a></a>.
