@@ -7,4 +7,3 @@ I store all design file templates, imagery, color palette files, animation files
 Collaboration with Designers and Developers
 Setting up your repository locally:
 Clone the repository
-Switch to a new branch
