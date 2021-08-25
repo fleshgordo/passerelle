@@ -197,7 +197,7 @@ snd \___,_]   [_,___/       (__(___/  \|
 
 This text contains some words.  Fill the void and be careful with commits and merges...
 
-HTML is a language for _______ and the abbreviation of the English term "Hypertext Markup _______". 
+HTML is a language for _______ and the abbreviation of the English term "Hypertext Markup Language". 
 
 HTML is the _______ used for all pages on the Internet and has existed since 1992. 
 
