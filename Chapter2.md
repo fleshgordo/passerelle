@@ -199,7 +199,7 @@ This text contains some words.  Fill the void and be careful with commits and me
 
 HTML is a language for the web and the abbreviation of the English term "Hypertext Markup Language".
 
-HTML is the nearly used for all pages on the Internet and has existed since 1992.
+HTML is the mostly used for all pages on the Internet and has existed since 1992.
 
 A hypertext is a text that is linked to other texts.
 
