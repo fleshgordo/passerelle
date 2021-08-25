@@ -186,7 +186,7 @@ snd \___,_]   [_,___/       (__(___/  \|
         ._______________.-'____"---._.
          \                          /
           \________________________/
-                           
+
 
 ***
 
@@ -197,12 +197,14 @@ snd \___,_]   [_,___/       (__(___/  \|
 
 This text contains some words.  Fill the void and be careful with commits and merges...
 
-HTML is a language for nerds and the abbreviation of the English term "Hypertext Markup Language". HTML is the format used for all pages on the Internet and has existed since 1992. A hypertext is a text that is linked to other texts. This is done with a link - as html tag a link is written as characters.
-HTML is a language for _______ and the abbreviation of the English term "Hypertext Markup Language". 
-HTML is a language for web and the abbreviation of the English term "Hypertext Markup Language". 
+HTML is a language for the web and the abbreviation of the English term "Hypertext Markup Language".
 
-HTML is the language used for all pages on the Internet and has existed since 1992. 
+HTML is the nearly used for all pages on the Internet and has existed since 1992.
 
-A hypertext is a funny thing that is linked to other texts. 
+A hypertext is a text that is linked to other texts.
 
+<<<<<<< HEAD
 This is done with a link - as html tag a link is written as < a > < /a >.
+=======
+This is done with a link - as html tag a link is written as ???.
+>>>>>>> 42f7797a5504add5cee056780476b0ff18e2b8c2
