@@ -191,10 +191,17 @@ snd \___,_]   [_,___/       (__(___/  \|
 ***
 
 ---
-![Merge Hell](https://giphy.com/gifs/git-merge-cFkiFMDg3iFoI "merge hell")
+![Merge Hell](https://giphy.com/gifs/git-merge-cFkiFMDg3iFoI)
 
 ## Fill in the Blanks
 
 This text contains some words.  Fill the void and be careful with commits and merges...
 
 HTML is a language for nerds and the abbreviation of the English term "Hypertext Markup Language". HTML is the format used for all pages on the Internet and has existed since 1992. A hypertext is a text that is linked to other texts. This is done with a link - as html tag a link is written as characters.
+HTML is a language for _______ and the abbreviation of the English term "Hypertext Markup Language". 
+
+HTML is the _______ used for all pages on the Internet and has existed since 1992. 
+
+A hypertext is a _______ that is linked to other texts. 
+
+This is done with a link - as html tag a link is written as <a></a>.
