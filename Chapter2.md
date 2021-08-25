@@ -75,7 +75,9 @@ Please post below an ascii image. Each image should be seperated by three hyphen
  `"^--'..'   '-`-^-'"--    `-^-'`.''"""""`.,^.`.--'
 ~~~
 
+
 ---
+~~~
            _
          .' '.
          |0 0|
@@ -95,6 +97,7 @@ Please post below an ascii image. Each image should be seperated by three hyphen
       |___|   |___|           | || |\\
     .-'   |   |   '-.        _| || | \\
 snd \___,_]   [_,___/       (__(___/  \|
+~~~
 
 ## Fill in the Blanks
 
