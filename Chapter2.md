@@ -13,6 +13,8 @@ Please post below an ascii image. Each image should be seperated by three hyphen
 | o_o |
  \_O_/
 ~~~
+
+~~~
                          ___,,___
                                 ,d8888888888b,_
                             _,d889'        8888b,
@@ -38,7 +40,6 @@ Please post below an ascii image. Each image should be seperated by three hyphen
        q8 8b        "888        `8888'
         "888                     `q88b
                                   "888'
-
 ~~~
 
 
@@ -74,7 +75,9 @@ Please post below an ascii image. Each image should be seperated by three hyphen
  `"^--'..'   '-`-^-'"--    `-^-'`.''"""""`.,^.`.--'
 ~~~
 
+
 ---
+~~~
            _
          .' '.
          |0 0|
@@ -94,6 +97,7 @@ Please post below an ascii image. Each image should be seperated by three hyphen
       |___|   |___|           | || |\\
     .-'   |   |   '-.        _| || | \\
 snd \___,_]   [_,___/       (__(___/  \|
+~~~
 
 
 ***
