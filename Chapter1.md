@@ -1,6 +1,6 @@
 # Quick intro
 
-## Video intro and tutorial
+## Video intro and tutorials
 
  - Git for designers? [why bother](https://www.youtube.com/watch?v=4S3h5L21KlA)?
  - Github for poets :) from [Coding Train](https://www.youtube.com/watch?v=BCQHnlnPusY)
