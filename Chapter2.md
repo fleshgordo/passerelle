@@ -38,7 +38,6 @@ Please post below an ascii image. Each image should be seperated by three hyphen
        q8 8b        "888        `8888'
         "888                     `q88b
                                   "888'
-
 ~~~
 
 
