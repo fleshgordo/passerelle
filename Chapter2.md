@@ -191,7 +191,7 @@ snd \___,_]   [_,___/       (__(___/  \|
 ***
 
 ---
-![Merge Hell](https://giphy.com/gifs/git-merge-cFkiFMDg3iFoI "merge hell")
+![Merge Hell](https://giphy.com/gifs/git-merge-cFkiFMDg3iFoI)
 
 ## Fill in the Blanks
 
