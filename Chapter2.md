@@ -203,4 +203,4 @@ HTML is the _______ used for all pages on the Internet and has existed since 199
 
 A hypertext is a _______ that is linked to other texts. 
 
-This is done with a link - as html tag a link is written as _______.
+This is done with a link - as html tag a link is written as <a></a>.
