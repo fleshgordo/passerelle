@@ -95,6 +95,25 @@ Please post below an ascii image. Each image should be seperated by three hyphen
     .-'   |   |   '-.        _| || | \\
 snd \___,_]   [_,___/       (__(___/  \|
 
+
+***
+
+,.,
+MMMM_    ,..,
+ "_ "__"MMMMM          ,...,,
+,..., __." --"    ,.,     _-"MMMMMMM
+MMMMMM"___ "_._   MMM"_."" _ """"""
+"""""    "" , \_.   "_. ."
+ ,., _"__ \__./ ."
+MMMMM_"  "_    ./
+ ''''      (    )
+._______________.-'____"---._.
+\                          /
+\________________________/
+(_)                    (_)
+
+***
+
 ## Fill in the Blanks
 
 This text contains some words.  Fill the void and be careful with commits and merges...
