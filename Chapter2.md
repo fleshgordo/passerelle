@@ -203,4 +203,8 @@ HTML is the nearly used for all pages on the Internet and has existed since 1992
 
 A hypertext is a text that is linked to other texts.
 
+<<<<<<< HEAD
+This is done with a link - as html tag a link is written as < a > < /a >.
+=======
 This is done with a link - as html tag a link is written as ???.
+>>>>>>> 42f7797a5504add5cee056780476b0ff18e2b8c2
