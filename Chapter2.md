@@ -189,6 +189,9 @@ snd \___,_]   [_,___/       (__(___/  \|
 
 ***
 
+---
+![Merge Hell](https://giphy.com/gifs/git-merge-cFkiFMDg3iFoI "merge hell")
+
 ## Fill in the Blanks
 
 This text contains some words.  Fill the void and be careful with commits and merges...
