@@ -13,6 +13,8 @@ Please post below an ascii image. Each image should be seperated by three hyphen
 | o_o |
  \_O_/
 ~~~
+
+~~~
                          ___,,___
                                 ,d8888888888b,_
                             _,d889'        8888b,
