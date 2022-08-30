@@ -36,7 +36,7 @@ echo "hello world"
 
 ## Fill in the Blanks
 
-HTML is a language for _______ and the abbreviation of the English term "Hypertext Markup _______". 
+HTML is a language for programming and the abbreviation of the English term "Hypertext Markup language". 
 
 HTML is the _______ used for all pages on the Internet and has existed since 1992. 
 
