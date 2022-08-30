@@ -86,4 +86,4 @@ HTML is the blubiblub used for all pages on the Internet and has existed since 1
 
 A hypertext is a text that is linked to other texts. 
 
-This is done with a link - as html tag a link is written as _______.
+This is done with a link - as html tag a link is written as something.
