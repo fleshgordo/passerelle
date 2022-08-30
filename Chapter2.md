@@ -4,11 +4,14 @@
 
 Please post below an ascii image. Each image should be seperated by three hyphens like this ---
 
+~~~
 |\---/|
 | o_o |
  \_^_/
+~~~
 
 ~~~
+echo "hello world"
 |\---/|
 | o_o |
  \_O_/
