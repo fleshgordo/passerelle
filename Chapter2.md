@@ -82,7 +82,7 @@ echo "hello world"
 
 HTML is a language for _______ and the abbreviation of the English term "Hypertext Markup _______". 
 
-HTML is the _______ used for all pages on the Internet and has existed since 1992. 
+HTML is the language used for all pages on the Internet and has existed since 1992. 
 
 A hypertext is a _______ that is linked to other texts. 
 
