@@ -4,11 +4,9 @@
 
 Please post below an ascii image. Each image should be seperated by three hyphens like this ---
 
-|\---/|
-| o_o |
- \_^_/
-
 ~~~
+<<<<<<< HEAD
+                             
                              
   .--,-``-.                  
  /   /     '.      ,---,     
@@ -24,7 +22,42 @@ Please post below an ascii image. Each image should be seperated by three hyphen
 \ ''\        ; ;   :  .'     
  \   \     .'  |   ,.'       
   `--`-,,-'    '---'         
+                                  
                              
+=======
+|\---/|
+| o_o |
+ \_^_/
+~~~
+
+~~~
+
+     ,  ,  , , ,
+     <(__)> | | |
+     | \/ | \_|_/
+     \^  ^/   |
+     /\--/\  /|
+    /  \/  \/ |
+~~~
+
+
+~~~
+echo "hello world"
+|\---/|
+| o_o |
+ \_O_/
+
+ ~~~
+
+     _____________________
+   /  __________________()
+  /  /|_________________ 
+ /  /_/________________()
+/______________________
+|_____________________()
+
+~~~
+>>>>>>> a05bad94cd89c3453e99648ade89df373c544df3
 ~~~
 ---
 ~~~
