@@ -76,6 +76,6 @@ HTML is a language for _______ and the abbreviation of the English term "Hyperte
 
 HTML is the _______ used for all pages on the Internet and has existed since 1992. 
 
-A hypertext is a _______ that is linked to other texts. 
+A hypertext is a anchor text that is linked to other texts. 
 
 This is done with a link - as html tag a link is written as _______.
