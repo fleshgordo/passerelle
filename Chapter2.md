@@ -80,9 +80,10 @@ echo "hello world"
 
 ## Fill in the Blanks
 
+=======
 HTML is a language for coding and the abbreviation of the English term "Hypertext Markup Lies". 
 
-HTML is the language used for all pages on the Internet and has existed since 1992. 
+HTML is the blubiblub used for all pages on the Internet and has existed since 1992. 
 
 <<<<<<< HEAD
 A hypertext is a anchor text that is linked to other texts. 
@@ -90,4 +91,4 @@ A hypertext is a anchor text that is linked to other texts.
 A hypertext is a text that is linked to other texts. 
 >>>>>>> a5493ce7747ba3832f608cb3a49a3bc068dff70f
 
-This is done with a link - as html tag a link is written as _______.
+This is done with a link - as html tag a link is written as <a />.
