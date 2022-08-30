@@ -9,6 +9,11 @@ Please post below an ascii image. Each image should be seperated by three hyphen
  \_^_/
 
 ~~~
+   (@_
+\\\_\
+<____)
+~~~
+~~~
 |\---/|
 | o_o |
  \_O_/
