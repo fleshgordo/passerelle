@@ -1,4 +1,4 @@
-# Passerelle 21
+# Passerelle
 Some example files for passerelle course - computer science focus HSLU 
 
 - [Basic steps and intro to Git](https://github.com/fleshgordo/passerelle21/blob/main/Chapter1.md)
