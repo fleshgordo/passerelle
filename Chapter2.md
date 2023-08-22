@@ -11,12 +11,9 @@ Please post below an ascii image. Each image should be seperated by three hyphen
 ~~~
 |\---/|
 | o_o |
- \_O_/
+ \_U_/
 ~~~
-\    /\
-       )  ( ')
-      (  /  )
- jgs   \(__)|
+---
 ~~~
 
 ***
