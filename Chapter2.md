@@ -11,13 +11,22 @@ Please post below an ascii image. Each image should be seperated by three hyphen
 ~~~
 |\---/|
 | o_o |
- \_O_/
+ \_U_/
 ~~~
 
 *******
 | - - |
  \_-_/
 
+               .--.
+              |o_o |
+              |:_/ |
+             //   \ \
+            (|     | )
+           /'\_   _/`\
+           \___)=(___/
+
+---
 ~~~
 
 ***
